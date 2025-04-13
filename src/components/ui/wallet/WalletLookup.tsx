@@ -37,7 +37,7 @@ export default function WalletLookup() {
     <div className="overflow-hidden rounded-xl border border-zinc-800 bg-zinc-900/50 backdrop-blur-sm">
       <div className="border-b border-zinc-800 px-6 py-4">
         <h2 className="text-xl font-bold text-white">Public Wallet Lookup</h2>
-        <p className="text-sm text-zinc-400">View any wallet's subaccounts and positions</p>
+        <p className="text-sm text-zinc-400">{"View any wallet's subaccounts and positions"}</p>
       </div>
 
       <div className="p-6">
